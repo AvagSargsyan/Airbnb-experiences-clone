@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+.App {
+  width: 100%;
+  font-family: 'Poppins';
+
+  header {
+    padding: 1.6rem 2rem;
+    box-shadow: 0px 3px 8px rgba($color: #000000, $alpha: 0.1);
+  }
+
+  main {
+    padding: 2.2rem;
+    display: flex;
+    gap: 0.8rem;
+    flex-direction: column;
+    align-items: flex-start;
+
+    .hero-img {
+      padding: 2rem 3rem;
+      align-self: center;
+      width: 100%;
+      max-width: 60rem;
+    }
+
+    .main-heading {
+      font-weight: 600;
+      font-size: 2.5rem;
+    }
+
+    .main-text {
+      max-width: 60%;
+      color: #222;
+      font-weight: 300;
+      font-size: 1.1rem;
+    }
+
+    @media screen and (max-width: 640px) {
+      .hero-img {
+        padding: 1rem 0;
+      }
+
+      .main-text {
+        max-width: 80%;
+      }
+    }
+  }
+}
