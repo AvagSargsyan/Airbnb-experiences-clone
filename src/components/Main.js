@@ -1,4 +1,5 @@
 import heroImg from '../assets/hero-img.png';
+import Cards from './Cards';
 
 export default function Main() {
   return (
@@ -9,6 +10,7 @@ export default function Main() {
         Join unique interactive activities led by one-of-a-kind hosts—all
         without leaving home.
       </p>
+      <Cards />
     </main>
   );
 }
