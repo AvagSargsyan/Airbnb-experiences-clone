@@ -1,12 +1,12 @@
 # Airbnb experiences clone
 
-A clone of Airbnb experiences page.This is my first project built with ReactJS.\
+A clone of Airbnb experiences page.This is my first project built with [ReactJS](https://reactjs.org/).\
 Desktop:\
-![Airbnb experiences](./src/screenshots/desktop1.png)\
-![Airbnb experiences](./src/screenshots/desktop2.png)\
+![Airbnb experiences](./src/screenshots/desktop1.png)
+![Airbnb experiences](./src/screenshots/desktop2.png)
 
 Mobile:\
-![Airbnb experiences](./src/screenshots/mobile.png)\
+![Airbnb experiences](./src/screenshots/mobile.png)
 
 ## Built with
 
@@ -19,7 +19,7 @@ Mobile:\
 ## Authors
 
 This project is created by [me](https://github.com/AvagSargsyan) during [FreeCodeCamp](https://www.freecodecamp.org/)'s 2022 React course([link](https://www.youtube.com/watch?v=bMknfKXIFA8&t=6950s)).
-Design is provided by [FreeCodeCamp](https://www.freecodecamp.com/): [Figma](https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1).
+Design is provided by [FreeCodeCamp](https://www.freecodecamp.com/).\ Figma design file [here](https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1).
 
 # Getting Started with Create React App
 
